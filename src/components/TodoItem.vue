@@ -32,7 +32,7 @@
 }
 
 .del{
-    background-color: #ff0000;
+    background-color: #ff0000e7;
     color: #ffff;
     border:none;
     padding: 5px 9px;

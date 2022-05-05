@@ -14,7 +14,7 @@
 
 <style scoped>
 .header {
-    background: #333;
+    background: steelblue;
     color: #fff;
     text-align: center;
     padding: 10px;

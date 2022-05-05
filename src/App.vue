@@ -57,6 +57,7 @@ import Todos from './components/Todos.vue';
   padding: 0;
 }
 body{
+  margin: 100px;
   font-family: sans-serif, Arial;
   line-height: 1.4;
 }
@@ -64,14 +65,14 @@ body{
 .btn {
   display: inline-block;
   border: none;
-  background: #555;
+  background: green;
   color: #fff;
   padding: 7px 20px;
   cursor: pointer;
 }
 
 .btn:hover {
-  background: #666;
+  background: rgba(1, 156, 1, 0.815);
 }
 
 </style>

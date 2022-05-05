@@ -20,6 +20,7 @@
                 e.preventDefault();
 
                 const newTodo = {
+                    // id: 
                     title: this.title,
                     completed: false
                 }
@@ -34,7 +35,7 @@
             //     e.preventDefault();
 
             //     // const newTodo = {
-            //     //     id: 1,
+            //     //     id: ,
             //     //     title: this.title,
             //     //     completed: false
             //     }
